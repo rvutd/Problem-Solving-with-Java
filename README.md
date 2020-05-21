@@ -1,2 +1,2 @@
-# basic_java
+# Basic Java
 Basic Java Problems To Learn Java
